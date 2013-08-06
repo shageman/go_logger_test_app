@@ -1,0 +1,3 @@
+[submodule "src/github.com/robfig/revel"]
+	path = src/github.com/robfig/revel
+	url = https://github.com/robfig/revel
